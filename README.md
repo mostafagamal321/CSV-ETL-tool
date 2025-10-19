@@ -1,4 +1,4 @@
-# csv-etl-tool
+# csv-etl-tool ♻️
 
 A lightweight ETL (Extract, Transform, Load) tool built in pure Python for working with CSV files.  
 This tool allows you to:
@@ -10,6 +10,17 @@ This tool allows you to:
 - All through an interactive terminal interface
 
 ---
+# Requirement 📌
+this the only module requirment to install to run this code
+the rest of the module used are already build-in python  module
+the cool icons & symbols used in the code are from this URL: https://coolsymbol.com/text-decorator.html
+-----------------------------------------------------------
+module required to install :
+-- for project.py module:
+ RUN IN YOUR CLI (TERMINAL) : pip install prettytable
+-- for project.py module:
+RUN IN YOUR CLI (TERMINAL) : pip install pytest
+
 
 ## 🚀 Features
 
