@@ -51,7 +51,7 @@ the cool icons & symbols used in the code are from this URL: https://coolsymbol.
 - `prettytable` (for clean terminal tables)
 - - `pytest` (for testing the functions)
 
-Install PrettyTable if you don’t have it already:
+Install PrettyTable & pytest if you don’t have it already:
 
 ```bash
 pip install prettytable
