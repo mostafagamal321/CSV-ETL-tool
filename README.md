@@ -41,6 +41,7 @@ This tool allows you to:
 - `sys` (built-in)
 - `re` (built-in)
 - `prettytable` (for clean terminal tables)
+- - `pytest` (for testing the functions)
 
 Install PrettyTable if you don’t have it already:
 
