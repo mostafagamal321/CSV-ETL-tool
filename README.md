@@ -11,9 +11,6 @@ This tool allows you to:
 
 ---
 # Requirement 📌
-this the only module requirment to install to run this code
-the rest of the module used are already build-in python  module
-the cool icons & symbols used in the code are from this URL: https://coolsymbol.com/text-decorator.html
 -----------------------------------------------------------
 module required to install :
 -- for project.py module:
@@ -45,7 +42,7 @@ RUN IN YOUR CLI (TERMINAL) : pip install pytest
 ---
 
 ## 🛠️ Technologies Used
-
+the cool icons & symbols used in the code are from this URL: https://coolsymbol.com/text-decorator.html
 - **Python 3.10+**
 - `csv` (built-in)
 - `os` (built-in)
@@ -58,3 +55,5 @@ Install PrettyTable if you don’t have it already:
 
 ```bash
 pip install prettytable
+pip install pytest
+
